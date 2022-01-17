@@ -1,2 +1,2 @@
 # SPA Shopping Website
-product Details Page and Shopping cart with useReducer and useContext.
+product Details Page and Shopping cart created with useReducer and useContext.
